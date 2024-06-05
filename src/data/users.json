@@ -1,0 +1,19 @@
+ {
+    "data":[
+        {
+         "email":"rahulpri@gmail.com",
+         "username":"rahul prajapati",
+         "password":"rahul@#$123"
+        },
+        {
+            "email":"testuser@gmail.com",
+            "username":"test user",
+            "password":"test@#$123"
+        },
+        {
+            "email":"rajesh@gmail.com",
+            "username":"rajesh panwar",
+            "password":"rajesh@#$123"
+        }
+    ]
+}
